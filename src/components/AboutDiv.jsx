@@ -22,7 +22,7 @@ const useStyles = makeStyles({
   aboutMePara: {
     fontWeight: 400,
     position: "relative",
-    top: "26%",
+    top: "29%",
     fontSize: "22px",
   },
   divHeader: {
@@ -67,10 +67,12 @@ const AboutDiv = () => {
                   align="center"
                   className={classes.aboutMeBody}
                 >
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Scelerisque varius integer eget malesuada aliquam egestas.
-                  Gravida amet morbi turpis adipiscing ullamcorper. Metus
-                  lobortis ut enim facilisis mauris, massa facilisis.
+                  Hello! I am Varun Shinde, a web-developer. Currently I am
+                  studying in SIESGST College pursing a B.Tech degree.
+                  Working with Technical Team SIESGST as a Junior Web Developer.
+                  I love listening rock and my favourite band is Linkin
+                  Park.Love cooking and obessed with David Dobrik.Would love to
+                  meet him one day :).
                 </Typography>
               </div>
             </Grid>
